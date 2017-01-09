@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="YaohuoUtil"
+  id="myeclipse.1483518667994"
+  context-root="/YaohuoQindao"
+  j2ee-spec="5.0"
+  archive="YaohuoUtil.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
